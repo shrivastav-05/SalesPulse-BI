@@ -1,0 +1,71 @@
+/* ================= RESULT CARD ================= */
+
+.result-card {
+  margin-top: 35px;
+  padding: 35px;
+  text-align: center;
+  border-radius: 16px;
+  background: #f8f9ff;
+  border: 1px solid #e5e7eb;
+}
+
+.result-icon {
+  font-size: 45px;
+  margin-bottom: 10px;
+}
+
+.result-card h2 {
+  font-size: 30px;
+  margin-bottom: 8px;
+}
+
+.result-message {
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 25px;
+}
+
+.probability-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  max-width: 650px;
+  margin: auto;
+}
+
+.probability-item {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+}
+
+.probability-item span {
+  display: block;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.probability-item strong {
+  font-size: 24px;
+}
+
+.model-info {
+  margin-top: 25px;
+  color: #666;
+  font-size: 14px;
+}
+
+.returned {
+  color: #dc2626;
+}
+
+.not-returned {
+  color: #16a34a;
+}
+
+@media (max-width: 600px) {
+  .probability-box {
+    grid-template-columns: 1fr;
+  }
+}
