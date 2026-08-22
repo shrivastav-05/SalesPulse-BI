@@ -50,3 +50,21 @@ Instead of looking at thousands of individual transactions separately, SalesPuls
 ## Problem Statement
 
 E-commerce businesses generate thousands of sales transactions every day, containing information about sales, prices, discounts, quantities, regions, categories, payments, and returns. However, raw transaction data alone does not provide a clear picture of overall business performance.
+
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Prediction Form
+![Prediction Form](screenshots/prediction-form.png)
+
+### Prediction Result
+![Prediction Result](screenshots/prediction-result.png)
+
+## Author
+Shivam Shrivastav
+
+BCA Student | Data Analytics & Machine Learning
+
+If you find this project useful, consider giving the repository a star.
