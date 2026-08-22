@@ -60,7 +60,7 @@ E-commerce businesses generate thousands of sales transactions every day, contai
 ![Prediction Form](screenshots/prediction-form.png)
 
 ### Prediction Result
-![Prediction Result](screenshots/prediction-result.png)
+![Prediction Result](screenshots/prediction-form.png)
 
 ## Author
 Shivam Shrivastav
