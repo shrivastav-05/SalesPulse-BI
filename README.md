@@ -65,6 +65,6 @@ E-commerce businesses generate thousands of sales transactions every day, contai
 ## Author
 Shivam Shrivastav
 
-BCA Student | Data Analytics & Machine Learning
+BCA Student | Data Analytics & Machine Learning |
 
 If you find this project useful, consider giving the repository a star.
