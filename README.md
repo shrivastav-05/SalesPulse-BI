@@ -46,6 +46,22 @@ Raw transaction data does not directly answer important business questions such 
 SalesPulse BI addresses these questions through structured data analysis and visualization.
 
 ---
+---
+
+# Machine Learning Objective
+
+### Prediction Type
+
+**Descriptive & Exploratory Analysis**
+
+### Target
+
+```text
+Sales & Profitability Analysis
+```
+
+The project analyzes historical e-commerce transactions to understand sales performance, revenue, profitability, product performance, regional trends, customer behavior, discounts, and returns, and converts the findings into actionable business insights.
+---
 
 # Project Objectives
 
