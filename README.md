@@ -77,6 +77,23 @@ The project analyzes historical e-commerce transactions to understand sales perf
 * Convert raw transactions into decision-support information
 
 ---
+---
+
+## Application Screenshots
+
+### Home Page
+
+![SalesPulse BI Home Page](./screenshots/home.png)
+
+### Prediction Form
+
+![SalesPulse BI Prediction Form](./screenshots/prediction-form.png)
+
+### Prediction Result
+
+![SalesPulse BI Prediction Result](./screenshots/predication-result.png)
+
+---
 
 # Machine Learning Workflow
 
